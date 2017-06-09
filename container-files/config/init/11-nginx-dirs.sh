@@ -19,4 +19,4 @@ mkdir -p /data/tmp/nginx/proxy_temp
 chmod 711 /data/tmp/nginx
 
 mkdir -p /data/www
-chown -R www:www /data/www
+chown www:www /data/www
